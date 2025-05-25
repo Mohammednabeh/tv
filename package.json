@@ -1,0 +1,13 @@
+{
+  "name": "iptv-json-worker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.56.0"
+  }
+}
