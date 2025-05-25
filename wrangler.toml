@@ -1,6 +1,6 @@
 name = "iptv-json-worker"
 type = "javascript"
-account_id = "ACCOUNT_ID_HERE"
+account_id = "Mohammednabeh"
 workers_dev = true
 compatibility_date = "2024-05-25"
 main = "src/index.js"
